@@ -15,4 +15,4 @@ The CodeStab's outcome are files that indicate:
 - Java files and test files changed between a commit and its previous one*
 - Java files and test files changed between a commit and the latest one*
 
-* considering commits included in the CommitLoader class
+-* considering commits included in the CommitLoader class
